@@ -1,11 +1,30 @@
 # The Problem
 
-R users speak many languages. Since R 2.1 (circa 2005), R has supported translation of its user-facing messages to other languages by integrating R with gettext (https://www.gnu.org/software/gettext/). R is unique among high-level open-source languages (Python, Julia, Javascript) in this respect. The translations themselves are supplied and maintained by community members; as of R 4.0.5, such translations are at least partially available in 16 languages.
+R users speak many languages. Since R 2.1 (circa 2005), R has supported translation of its
+user-facing messages to other languages by integrating R with gettext
+(https://www.gnu.org/software/gettext/). R is unique among high-level open-source languages
+(Python, Julia, Javascript) in this respect. The translations themselves are supplied and
+maintained by community members; as of R 4.0.5, such translations are at least
+partially available in 16 languages.
 
-This project aims to take this great foundational work and improve it. Some key pain points/shortcomings of the translation system as exists at present:
+This project aims to take this great foundational work and improve it. Some key pain
+points/shortcomings of the translation system as exists at present:
 
- - "Single points of failure" - R maintains a list of single points-of-contact for each language (see https://developer.r-project.org/TranslationTeams.html). This means that maintaining each language depends on the continued involvement of this person in the R community; there is no clear succession plan for stale translations
- - Passivity - Thus far the process of getting community contributions of translations has been mostly passive -- if a volunteer comes along to contribute translations for French, great, otherwise, French is untranslated. As a result, a few translation sets are actively maintained (e.g. French, Italian, Russian, Traditional Chinese), while others lag far behind the current R version. Moreover, there are several glaring holes of languages spoken by hundreds of millions of people that are not translated in R at all (Arabic, Bengali, Hindi, Urdu, and Indonesian)
- - Inconsistency - because translations are submitted on a more-or-less _ad hoc_ basis, translations may end up inconsistent across submissions. This may come in the form of slightly different translations of technical terms, different punctuation usages, different encodings, etc.
+ - "Single points of failure" - R maintains a list of single points-of-contact for each
+   language (see https://developer.r-project.org/TranslationTeams.html). This means that
+   maintaining each language depends on the continued involvement of this person in the R
+   community; there is no clear succession plan for stale translations
+ - Passivity - Thus far the process of getting community contributions of translations has
+   been mostly passive -- if a volunteer comes along to contribute translations for French,
+   great, otherwise, French is untranslated. As a result, a few translation sets are actively
+   maintained (e.g. French, Italian, Russian, Traditional Chinese), while others lag far behind
+   the current R version. Moreover, there are several glaring holes of languages spoken by
+   hundreds of millions of people that are not translated in R at all (Arabic, Bengali,
+   Hindi, Urdu, and Indonesian)
+ - Inconsistency - because translations are submitted on a more-or-less _ad hoc_ basis,
+   translations may end up inconsistent across submissions. This may come in the form of
+   slightly different translations of technical terms, different punctuation usages,
+   different encodings, etc.
 
-See [Appendix](https://docs.google.com/document/d/1XbfOf3CLVb2UFyUZGJoVLkBUDZ6Hs3APCDW8UzuOvZk/edit?usp=sharing) for some more detailed data about translations in R
+See [Appendix](https://docs.google.com/document/d/1XbfOf3CLVb2UFyUZGJoVLkBUDZ6Hs3APCDW8UzuOvZk/edit?usp=sharing)
+for some more detailed data about translations in R

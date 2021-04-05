@@ -4,7 +4,10 @@ Growing and sustaining high-quality multi-lingual translations for R
 
 ## Overview
 
-This project will provide a better formalization of translation procedures to be more sustainable and more scalable. In the process, it will broaden the inclusivity of R by growing the sub-community of R users comfortable producing translations and extending the reach of the R project to more non-English audiences.
+This project will provide a better formalization of translation procedures to be more
+sustainable and more scalable. In the process, it will broaden the inclusivity of R by
+growing the sub-community of R users comfortable producing translations and extending
+the reach of the R project to more non-English audiences.
 
 ## Detail
 <!--
