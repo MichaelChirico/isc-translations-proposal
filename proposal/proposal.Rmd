@@ -1,12 +1,10 @@
 # The proposal
-<!--
-This is where the proposal should be outlined. 
--->
+
+Growing and sustaining high-quality multi-lingual translations for R
 
 ## Overview
-<!--
-At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
--->
+
+This project will provide a better formalization of translation procedures to be more sustainable and more scalable. In the process, it will broaden the inclusivity of R by growing the sub-community of R users comfortable producing translations and extending the reach of the R project to more non-English audiences.
 
 ## Detail
 <!--
