@@ -4,21 +4,40 @@ Projects should have a definition of done that is measurable, and a thorough und
 -->
 
 ## Definition of done
+
+Here are some KRs for the concrete objectives laid out in the overview:
+
+ - `potools` is on CRAN and works for C-level translations
+ - The translations workshop at useR! 2021 is a success
+ - R-devel translation readiness: someone signs off on having completed this (?)
+ - Best practices: a document with the summary & review
+ - R translation ecosystem: Documentation on r-project.org delineating the new process
+ - New translations: Translations for Arabic, Bengali, Hindi, Indonesian, and Urdu
+
 <!-- 
 What does success look like? 
 -->
 
 ## Measuring success
+
+One clear milestone will be the useR! workshop. Attendance and feedback there
+will be good indicators of progress.
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
 
 ## Future work
+
+`potools` has some pending feature requests that would greatly enrich the translating experience,
+such as some functionality to identify similar messages that are candidates for merging.
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
 
 ## Key risks
+
+The goal to get new translations relies on community involvement which ultimately can't be guaranteed.
+
 <!-- 
 What sort of things could come up that can delay or break the project?
 

@@ -19,3 +19,12 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
+
+Some concrete targets of the project:
+
+ - Upload `potools` to CRAN after extending it to work for C-level translations
+ - Design and execute a translations workshop at useR! 2021
+ - Vet existing English messaging in R-devel and improve translation-readiness
+ - Review and summarize existing best practices for translating OSS software
+ - Roll out a new system for R to accept and update translations
+ - Strive to get R translations for all languages with >100M worldwide speakers

@@ -24,7 +24,10 @@ points/shortcomings of the translation system as exists at present:
  - Inconsistency - because translations are submitted on a more-or-less _ad hoc_ basis,
    translations may end up inconsistent across submissions. This may come in the form of
    slightly different translations of technical terms, different punctuation usages,
-   different encodings, etc.
+   different encodings, etc. This is beyond inconsistency in the _English_ messaging which
+   may exist due to the motley history of how these messages came to their present form.
+
+In short, the process is bespoke and bilaterally inconvenient.
 
 See [Appendix](https://docs.google.com/document/d/1XbfOf3CLVb2UFyUZGJoVLkBUDZ6Hs3APCDW8UzuOvZk/edit?usp=sharing)
-for some more detailed data about translations in R
+for some more detailed data about translations in R.
