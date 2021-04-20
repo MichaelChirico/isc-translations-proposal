@@ -22,9 +22,14 @@ Depending on project type the detail section should include:
 
 Some concrete targets of the project:
 
- - Upload `potools` to CRAN after extending it to work for C-level translations
- - Design and execute a translations workshop at useR! 2021
+ - Release `potools` on CRAN after extending it to work for C-level translations
+ - Design, execute, and widely disseminate a translations workshop at useR! 2021
  - Vet existing English messaging in R-devel and improve translation-readiness
  - Review and summarize existing best practices for translating OSS software
+    + Brilliant example: [GNOME Translation Teams](https://l10n.gnome.org/teams/)
  - Roll out a new system for R to accept and update translations
- - Strive to get R translations for all languages with >100M worldwide speakers
+    + Add a chapter on translations to the [R Developer Guide](https://github.com/forwards/rdevguide)
+    + Foster a community of translators in the [R-Devel Slack](r-devel.slack.com)
+    + Target outreach to R-Ladies Global and MiR as a way to engage new R contributors
+    + Update translation-related documentation on the CRAN site, including [R Translation Teams](https://developer.r-project.org/TranslationTeams.html) and [Translating R Messages](https://developer.r-project.org/Translations30.html)
+ - Strive to get and sustain R translations for all languages with >100M worldwide speakers
