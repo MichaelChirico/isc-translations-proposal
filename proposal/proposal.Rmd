@@ -10,15 +10,6 @@ growing the sub-community of R users comfortable producing translations and exte
 the reach of the R project to more non-English audiences.
 
 ## Detail
-<!--
-Go into more detail about the specifics of the project and it delivers against the problem.
-
-Depending on project type the detail section should include:
-
- - [ ] Minimum Viable Product
- - [ ] Architecture
- - [ ] Assumptions
--->
 
 Some concrete targets of the project:
 

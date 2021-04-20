@@ -1,6 +1,6 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"Improving Translations in R"
 proposal.file<-"isc-proposal.Rmd"
-author<-"Steph Locke"
+author<-"Michael Chirico"
 
 rmarkdown::render(proposal.file, output_format="html_document",
                   output_dir="out", quiet=TRUE)
